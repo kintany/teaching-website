@@ -8,7 +8,7 @@ draft = false
 time_start = 2020-04-16  
 #time_end = 2020-04-16
 
-authors = ["Svetlana Vinogradova"]
+authors = ["admin"]
 
 # Abstract and optional shortened version.
 abstract = "Personalized nutrition and lifestyle recommendations is a fast growing field and includes assessing an individual’s health and fitness status by combining genetic information with more traditional means including diet preferences, age, lifestyle, and health history. In addition, recent advances in wearables technology allows to track and analyze individual’s sleep, day activity patterns along with resting heart rate and other metrics.
