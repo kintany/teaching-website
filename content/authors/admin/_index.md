@@ -18,12 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include statistics, machine learning, deep learning, data visualization.
+bio: My interests include data science and machine learning, teaching, and storytelling with data. 
 
 interests:
-- Artificial Intelligence
-- Computational Biology
-- Data Vizualization
+- Machine Learning
+- Teaching
+- Storytelling with Data
 
 education:
   courses:
@@ -59,13 +59,13 @@ email: "kintany@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-Svetlana Vinogradova is a Lead Data Scientist at Inside Tracker, leading the Data Science team to integrate blood biomarkers and DNA data with physiological data from activity trackers to improve lifestyle recommendations and discover new patterns and optimal zones in sleep, heart rate, and blood biomarkers. 
+Currently, I am a Lead Data Scientist at Inside Tracker, leading the Data Science team to integrate blood biomarkers and DNA data with physiological data from activity trackers to improve lifestyle recommendations and discover new patterns and optimal zones in sleep, heart rate, and blood biomarkers. 
 
-Prior to Inside Tracker, Svetlana was a research fellow at Dana Farber Cancer Institute and Harvard Medical School where she worked as a bioinformatician developing statistical methods to study epigenetic mechanisms affecting gene expression. 
+Prior to Inside Tracker, I was a research fellow at Dana Farber Cancer Institute and Harvard Medical School where I worked as a bioinformatician developing statistical methods to study epigenetic mechanisms affecting gene expression. 
 
-Svetlana has a PhD in Bioinformatics and Mathematical Biology from Lomonosov Moscow State University. During her PhD, she worked on developing algorithms to study RNA secondary structures and also enjoyed teaching and developing bioinformatics, algorithms, and R programming courses.
+I have always been passionate about teaching and explaining complex concepts in simple terms. During my PhD, I developed and taught a course "R and application in bioinformatics". In 2013, this course was the first R course taught in Russia and was very popular among students. Since then, I taught R to students and professionals, in groups and individually. I am an RStudio Certified Instructor in tidyverse.
