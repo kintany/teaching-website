@@ -24,12 +24,7 @@ date_format = "Jan 2006"
   location = "Cambridge, MA"
   date_start = "2019-08-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  description = """Leading data science team to apply machine learning and predictive analytics methods to data science projects including biomarkers’ analysis and physiological signal processing. Supporting science, product, and development teams with data science tasks
   """
 
 [[experience]]
