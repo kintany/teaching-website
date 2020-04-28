@@ -56,12 +56,6 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "kintany@gmail.com"
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-# user_groups:
-# - Researchers
-# - Visitors
 ---
 
 Currently, I am a Lead Data Scientist at Inside Tracker, working to integrate blood biomarkers and DNA data with physiological data from activity trackers to improve lifestyle recommendations and discover new patterns and optimal zones in sleep, heart rate, and blood biomarkers. 
