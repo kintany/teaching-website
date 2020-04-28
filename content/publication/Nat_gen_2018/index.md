@@ -21,7 +21,7 @@ publication_types = ["2"]
 publication = "High prevalence of clonal monoallelic expression"
 
 # Abstract and optional shortened version.
-abstract = "Comment on "Analysis of allelic expression patterns in clonal somatic cells by single-cell RNA-seq" "
+abstract = "Comment on Analysis of allelic expression patterns in clonal somatic cells by single-cell RNA-seq"
 # Is this a selected publication? (true/false)
 selected = true
 
