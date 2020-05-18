@@ -3,7 +3,7 @@ title = "Reproducable research using R Markdowns"
 
 date = 2020-05-14
 lastmod = 2020-05-14
-draft = false
+draft = true
 
 authors = ["Svetlana Vinogradova"]
 
