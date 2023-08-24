@@ -14,7 +14,7 @@ role: Lead Data Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Inside Tracker
+- name: Zwift
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -58,8 +58,8 @@ social:
 email: "kintany@gmail.com"
 ---
 
-Currently, I am a Lead Data Scientist at Inside Tracker, working to integrate blood biomarkers and DNA data with physiological data from activity trackers to improve lifestyle recommendations and discover new patterns and optimal zones in sleep, heart rate, and blood biomarkers. 
+Currently, I am a Lead Data Scientist at Zwift, working on multiple data science initiatives, most notably a collaborative filtering recommendation model designed to offer personalized training and route suggestions for users, drawing from their historical time-series data.
 
-Prior to Inside Tracker, I was a research fellow at Dana Farber Cancer Institute and Harvard Medical School where I worked as a bioinformatician developing statistical methods to study epigenetic mechanisms affecting gene expression. 
+Prior to Zwift, I was at InsideTracker, working to integrate blood biomarkers and DNA data with physiological data from activity trackers to improve lifestyle recommendations and discover new patterns and optimal zones in sleep, heart rate, and blood biomarkers. 
 
-I have always been passionate about teaching and explaining complex concepts in simple terms. During my PhD, I developed and taught a course "R and its application in bioinformatics". In 2013, this course was the first R course taught in Russia and was very popular among students. Since then, I taught R to students and professionals, in groups and individually. I am an RStudio Certified Instructor in tidyverse.
+I have always been passionate about teaching and explaining complex concepts in simple terms. During my PhD, I developed and taught a course "R and its application in bioinformatics". In 2013, this course was the first R course taught in Russia and was very popular among students. Since then, I taught R to students and professionals, in groups and individually. I am an RStudio Certified Instructor in tidyverse and teach at [posit Academy](https://posit.co/products/enterprise/academy/).
