@@ -19,13 +19,26 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Lead Data Scientist"
+  company = "Nuna"
+  company_url = "https://nuna.com/"
+  location = "Remote"
+  date_start = "2024-07-01"
+  date_end = ""
+  description = """Leading the development of the new ML-based trend algorithms and surfacing insights for users and healthcare providers
+  """
+
+[[experience]]
+  title = "Lead Data Scientist"
   company = "Zwift"
   company_url = "https://us.zwift.com/"
   location = "Remote"
   date_start = "2022-09-26"
-  date_end = ""
-  description = """Spearheading the development of multiple data science initiatives, most notably a collaborative filtering recommendation model designed to offer personalized training and route suggestions for users, drawing from their historical time-series data. Collaborating with product teams and key stakeholders to ensure alignment with business objectives and user needs. Initiated and established a systematic data quality review process with data engineers, emphasizing data validation, anomaly detection, and consistency checks to maintain data integrity across sources.
-  """
+  date_end = "2024-03-01"
+  description = """
+  • Led the development and deployment of customer-facing product features, including introducing the racing score as part of a company-wide initiative for a personalized recommendation system. Conducted initial research, statistical modeling, and implemented the machine learning model in production, resulting in significantly enhanced user engagement. Collaborated with engineers and product teams, leading the data science aspect of the project.
+• Developed a machine learning model for customer segmentation, leveraging behavior data from 1 million users on a virtual cycling gaming platform, aiding the business in expanding its recreational cycling enthusiast audience.
+• Enhanced data integrity across multiple data streams by initiating and establishing a comprehensive data quality and governance review process, covering data validation, anomaly detection, and consistency checks
+  """  
 
 [[experience]]
   title = "Lead Data Scientist"
@@ -34,7 +47,7 @@ date_format = "Jan 2006"
   location = "Cambridge, MA"
   date_start = "2019-08-01"
   date_end = "2022-09-01"
-  description = """Lead the Data Science team to integrate a unique dataset of blood biomarkers and genomic data with physiological data from wearable sensors (including sleep, RHR, HRV), performed end-to-end analyses, and built new product features. Built core Data Engineering infrastructure supporting the data science function, and set up internal consulting service supporting the Marketing, Product, and Executive teams.
+  description = """Led the Data Science team to integrate a unique dataset of blood biomarkers and genomic data with physiological data from wearable sensors (including sleep, RHR, HRV), performed end-to-end analyses, and built new product features. Built core Data Engineering infrastructure supporting the data science function, and set up internal consulting service supporting the Marketing, Product, and Executive teams.
   """
 
 [[experience]]
