@@ -13,4 +13,4 @@ subtitle = ""
 
 I am also a running coach and currently taking clients to coach them to run 5k/10k/half-marathon or a marathon. Please reach out!
 
-You can view my coaching certification [here](static/Road Runners Club of America Certificate.pdf).
+You can view my coaching certification [here](RoadRunnersClubofAmericaCertificate.pdf).
