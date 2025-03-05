@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Lead Data Scientist"
+  title = "Senior Data Scientist"
   company = "Nuna"
   company_url = "https://nuna.com/"
   location = "Remote"
@@ -35,8 +35,8 @@ date_format = "Jan 2006"
   date_start = "2022-09-26"
   date_end = "2024-03-01"
   description = """
-  • Led the development and deployment of customer-facing product features, including introducing the racing score as part of a company-wide initiative for a personalized recommendation system. Conducted initial research, statistical modeling, and implemented the machine learning model in production, resulting in significantly enhanced user engagement. Collaborated with engineers and product teams, leading the data science aspect of the project.
-• Developed a machine learning model for customer segmentation, leveraging behavior data from 1 million users on a virtual cycling gaming platform, aiding the business in expanding its recreational cycling enthusiast audience.
+  • Led the development and deployment of customer-facing product features, including introducing the racing score as part of a company-wide initiative for a personalized recommendation system. Conducted initial research, statistical modeling, and implemented the machine learning model in production, resulting in significantly enhanced user engagement. Collaborated with engineers and product teams, leading the data science aspect of the project.\n
+• Developed a machine learning model for customer segmentation, leveraging behavior data from 1 million users on a virtual cycling gaming platform, aiding the business in expanding its recreational cycling enthusiast audience.\n
 • Enhanced data integrity across multiple data streams by initiating and establishing a comprehensive data quality and governance review process, covering data validation, anomaly detection, and consistency checks
   """  
 
