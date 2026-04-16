@@ -18,12 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include data science and machine learning, teaching, and storytelling with data. 
+bio: I build data systems that help people understand and act on their own health data.
 
 interests:
 - Machine Learning
-- Teaching
-- Storytelling with Data
+- Health & Longevity
+- Physiological Data
 
 education:
   courses:
