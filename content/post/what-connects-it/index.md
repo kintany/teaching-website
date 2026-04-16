@@ -26,7 +26,7 @@ When I first moved to the US, I was training for marathons and constantly exhaus
 
 It wasn't until I started working at InsideTracker and finally got my ferritin tested that I found out it was at 10. To put that in context: it's almost miraculous I could walk up a flight of stairs, let alone run a marathon.
 
-That number existed in my body the whole time. The data was always there. I can't count how many times I was told to just run less. What was missing was a doctor with the time and interest to look beyond "she's young and healthy."
+I'll never know for how long I'd been iron-depleted, or what I might have done differently if I'd known sooner. I can't count how many times I was told to just run less. What was missing was a doctor with the time and interest to look beyond "she's young and healthy."
 
 We're at a strange moment. People have more access to health data than ever — wearables, continuous glucose monitors, detailed bloodwork, DNA tests. The data exists. The curiosity exists. And yet most people have no idea what to do with any of it. A doctor's visit ends with "your numbers look fine," because most physicians aren't trained to engage with this kind of data, and frankly don't have time to. People are left alone with dashboards they can't interpret, making decisions based on guesswork.
 
