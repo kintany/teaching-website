@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Data Scientist
+role: Data Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Nuna
+- name: Meta (Instagram)
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -42,23 +42,22 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:kintany@gmail.com'
+- icon: linkedin
+  icon_pack: fab
+  link: https://linkedin.com/in/svetlana-phd
 - icon: github
   icon_pack: fab
   link: https://github.com/kintany
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: Resume_Svetlana_Vinogradova.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "kintany@gmail.com"
 ---
 
-Currently, I am a Senior Data Scientist at Nuna, developing ML-based trend algorithms and surfacing insights for users and healthcare providers.
+Data Scientist with 10+ years of experience building production-grade machine learning systems in consumer health and large-scale platforms. Currently at Meta (Instagram), where I develop ML and statistical models to detect under-delivered content within large-scale ranking systems and translate diagnostic insights into user-facing creator analytics features.
 
-Prior to Nuna, I worked at Zwift building recommendation models designed to offer personalized training and route suggestions for users, drawing from their historical time-series data.
+My expertise spans physiological signal modeling, causal inference, and experimentation. Previous roles include Senior Data Scientist at Nuna Health (longitudinal blood pressure modeling, LLM safety evaluation), Lead Data Scientist at Zwift (recommendation systems, customer segmentation), and Lead Data Scientist / Data Science Manager at InsideTracker (founding data scientist, integrating biomarkers, genomics, and wearable data into personalized health recommendations).
 
-Before that, I worked at InsideTracker where I focused on integrating blood biomarkers and DNA data with physiological data from activity trackers to improve lifestyle recommendations and discovering new patterns and optimal zones in sleep, heart rate, and blood biomarkers. 
-
-I have always been passionate about teaching and explaining complex concepts in simple terms. During my PhD, I developed and taught a course "R and its application in bioinformatics". In 2013, this course was the first R course taught in Russia and was very popular among students. Since then, I taught R to students and professionals, in groups and individually. I am an RStudio Certified Instructor in tidyverse and teach at [posit Academy](https://posit.co/products/enterprise/academy/).
+I hold a PhD in Mathematical Biology and Bioinformatics from Lomonosov Moscow State University and previously conducted research at Harvard Medical School / Dana-Farber Cancer Institute.

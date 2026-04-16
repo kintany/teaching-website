@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Certifications"
 subtitle = ""
 
 # Date format
@@ -19,9 +19,19 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Deep Learning Specialization"
+  organization = "RStudio (Posit)"
+  organization_url = "https://posit.co"
+  title = "Certified Trainer — R/tidyverse"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-01-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "DeepLearning.AI"
+  organization_url = "https://www.deeplearning.ai"
+  title = "Deep Learning Specialization (5 courses)"
   url = "https://www.coursera.org/specializations/deep-learning"
   certificate_url = "https://coursera.org/share/15eca081d4be2421b334fd28bf306f83"
   date_start = "2018-07-01"
